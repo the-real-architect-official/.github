@@ -7,7 +7,7 @@
 </p>
 
 ## LINKS:
-* Windows 12 Web - https://win12-online.github.io/win12/desktop.html
+* Windows 12 Web - https://win12-online.github.io/win12/
 
 ## DISCLAIMER about Windows 12 Demo:
 <img width="533" height="384" alt="image" src="https://github.com/user-attachments/assets/0eb8e199-bb19-4179-8d8d-7bb667518e4d" />
