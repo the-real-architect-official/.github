@@ -7,7 +7,7 @@
 </p>
 
 ## LINKS:
-* Windows 12 Web - https://the-real-architect-official.github.io/win12_online
+* Windows 12 Web - https://github.com/Fppps/Win12
 ## DISCLAIMER about Windows 12 Demo:
 ###### This OS is not affilated or being a fraud with scams and with total lies. it's a creative concept mock-up
 ---
