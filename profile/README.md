@@ -7,10 +7,11 @@
 </p>
 
 ## LINKS:
-* [Windows 12 Web](https://github.com/Fppps/Win12)
-* [Portfolio](https://github.com/RobertThePublisher/robertthepublisher.github.io)
-* [ROMs](https://github.com/RobertThePublisher/roms)
-* [Follow Our Profile!](https://github.com/RobertThePublisher)
+[![Windows 12 Web](https://img.shields.io/badge/Windows_12_Web-blue?style=for-the-badge&logo=windows)](https://github.com/Fppps/Win12)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/RobertThePublisher/robertthepublisher.github.io)
+[![ROMs](https://img.shields.io/badge/ROMs_Collection-purple?style=for-the-badge&logo=nintendo)](https://github.com/RobertThePublisher/roms)
+[![Follow Our Profile!](https://img.shields.io/badge/Follow_Our_Profile-🚀-orange?style=for-the-badge)](https://github.com/RobertThePublisher)
+
 ## DISCLAIMER about Windows 12 Demo:
 ###### This OS is not affilated with microsoft in any-way. credit goes to their owners. this is not a real hardware
 ---
