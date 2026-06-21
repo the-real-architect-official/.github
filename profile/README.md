@@ -9,7 +9,7 @@
 ## LINKS:
 * Windows 12 Web - https://github.com/Fppps/Win12
 ## DISCLAIMER about Windows 12 Demo:
-###### This OS is not affilated or being a fraud with scams and with total lies. it's a creative concept mock-up
+###### This OS is not affilated with microsoft in any-way. credit goes to their owners. this is not a real hardware
 ---
 
 <details> This README.md exists in .github/profile/README.md a README.md in organization</details>
