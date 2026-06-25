@@ -77,9 +77,6 @@
 [![ROMs](https://img.shields.io/badge/ROMs_Collection-purple?style=for-the-badge&logo=nintendo)](https://github.com/RobertThePublisher/roms)
 [![Follow Our Profile!](https://img.shields.io/badge/Follow_Our_Profile-🚀-orange?style=for-the-badge)](https://github.com/RobertThePublisher)
 [![Cipher linux](https://img.shields.io/badge/cipher_linux-red?style=for-the-badge)](https://github.com/the-real-architect-official/cipher-linux/tree/main)
-
-<!-- ADDITIONAL NETWORK LINKS -->
-[![Win12 Live Demo](https://img.shields.io/badge/Win12_ORG-the--real--architect--official-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/the-real-architect-official/win12)
 [![Discussions](https://img.shields.io/badge/Join_Discussions-💬-6e40c9?style=for-the-badge)](https://github.com/orgs/the-real-architect-official/discussions)
 
 ---
